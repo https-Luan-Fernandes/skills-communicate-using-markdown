@@ -23,3 +23,11 @@ var myVar = "Hello, world!";
 ``` java
 int speed = 100
 ```
+
+## Task List Example
+
+- [x] List item 1
+- [x] List item 2
+- [x] List item 3
+- [ ] List item 4
+- [ ] List item 5
